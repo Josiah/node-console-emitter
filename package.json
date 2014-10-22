@@ -7,7 +7,7 @@
     "event",
     "emitter"
   ],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Josiah <josiah@rapidapps.io>",
   "homepage": "https://github.com/Josiah/node-console-emitter",
   "bugs": "https://github.com/Josiah/node-console-emitter/issues",
