@@ -18,9 +18,10 @@
   "license": "MIT",
   "main": "lib/console.js",
   "scripts": {
-    "test": "lab -v --lint --coverage --threshold 100"
+    "test": "lab -v --lint --coverage"
   },
   "devDependencies": {
+    "coveralls": "^2.11.2",
     "lab": "^4.7.0"
   }
 }
