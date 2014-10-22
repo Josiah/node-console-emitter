@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "quotes": ["single", "avoided-escape"]
+  },
+  "env": {
+    "node": true
+  }
+}
