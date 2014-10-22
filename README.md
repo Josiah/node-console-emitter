@@ -3,9 +3,9 @@
 > Implementation of the [console API](http://nodejs.org/api/console.html) which
 > emits appropriate events on all method calls.
 
-![NPM Module](https://nodei.co/npm/console-emitter.png?stars=true)
+[![NPM Module](https://nodei.co/npm/console-emitter.png?stars=true)](https://www.npmjs.org/package/console-emitter)
 
-![Build Status](https://api.travis-ci.org/Josiah/node-console-emitter.svg)
+[![Build Status](https://api.travis-ci.org/Josiah/node-console-emitter.svg)](https://travis-ci.org/Josiah/node-console-emitter)
 [![Coverage Status](https://img.shields.io/coveralls/Josiah/node-console-emitter.svg)](https://coveralls.io/r/Josiah/node-console-emitter)
 
 ## Usage
