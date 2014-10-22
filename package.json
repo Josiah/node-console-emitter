@@ -1,7 +1,12 @@
 {
   "name": "console-emitter",
   "description": "A `console` compatible interface which emits events on console method calls",
-  "keywords": ["console", "log", "event", "emitter"],
+  "keywords": [
+    "console",
+    "log",
+    "event",
+    "emitter"
+  ],
   "version": "0.0.0",
   "author": "Josiah <josiah@rapidapps.io>",
   "homepage": "https://github.com/Josiah/node-console-emitter",
@@ -14,5 +19,8 @@
   "main": "lib/console.js",
   "scripts": {
     "test": "lab -v --lint --coverage --threshold 100"
+  },
+  "devDependencies": {
+    "lab": "^4.7.0"
   }
 }
